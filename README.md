@@ -41,6 +41,7 @@ class Abdullah:
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**live_timer_markers**](https://github.com/abdullahayyad/live_timer_markers) | Flutter package: live count-up and countdown timers on Google Maps markers | Flutter · Dart · Google Maps |
 | [**VPN App UI**](https://github.com/abdullahayyad/vpn_design) | Classic-style VPN app interface in Flutter, set up for mobile, web and desktop | Flutter · Dart |
 | [**Clean Architecture + MVVM**](https://github.com/abdullahayyad/clean_architecture) | Flutter movie app built with Clean Architecture and MVVM on TheMovieDB API | Flutter · Dart |
 | [**iOS Clean Architecture Sample**](https://github.com/abdullahayyad/IOS-Swift-CleanArchitecture-Sample) | Swift project structured with Clean Architecture, with unit tests, UI tests and SwiftLint | Swift · iOS |
