@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://github.com/abdullahayyad?tab=followers"><img src="https://img.shields.io/github/followers/abdullahayyad?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=abdullahayyad&style=for-the-badge&color=2ea44f&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
