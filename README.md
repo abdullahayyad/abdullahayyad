@@ -41,7 +41,7 @@ class Abdullah:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**ultimate_carousel**](https://github.com/abdullahayyad/ultimate_carousel) | Flutter package: 41 carousel transitions and 15 page indicators behind one widget ([live demo](https://abdullahayyad.github.io/ultimate_carousel/)) | Flutter · Dart |
+| [**ultimate_carousel**](https://github.com/abdullahayyad/ultimate_carousel) | Flutter package: 47 carousel transitions and 15 page indicators behind one widget ([live demo](https://abdullahayyad.github.io/ultimate_carousel/)) | Flutter · Dart |
 | [**live_timer_markers**](https://github.com/abdullahayyad/live_timer_markers) | Flutter package: live count-up and countdown timers on Google Maps markers | Flutter · Dart · Google Maps |
 | [**VPN App UI**](https://github.com/abdullahayyad/vpn_design) | Classic-style VPN app interface in Flutter, set up for mobile, web and desktop | Flutter · Dart |
 | [**Clean Architecture + MVVM**](https://github.com/abdullahayyad/clean_architecture) | Flutter movie app built with Clean Architecture and MVVM on TheMovieDB API | Flutter · Dart |
